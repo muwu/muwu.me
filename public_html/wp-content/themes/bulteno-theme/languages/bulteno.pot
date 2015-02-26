@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulteno\n"
+"POT-Creation-Date: 2013-03-14 12:51+0200\n"
+"PO-Revision-Date: 2013-03-14 12:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: Orange-Themes <support@orange-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid "No Comments Yet!"
+msgstr ""
+
+#: comments.php:25
+msgid "No one have left a comment for this post yet!"
+msgstr ""
+
+#: comments.php:26
+msgid "WRITE A COMMENT ON THIS POST"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr ""
+
+#: comments.php:37 template-contact.php:33
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:42
+msgid "Your comment.."
+msgstr ""
+
+#: comments.php:51
+msgid "Post a Comment"
+msgstr ""
+
+#: footer.php:179
+msgid "Contact Us"
+msgstr ""
+
+#: footer.php:208
+msgid "Loading.."
+msgstr ""
+
+#: footer.php:209 includes/_lightbox-gallery.php:4
+msgid "Close Window"
+msgstr ""
+
+#: footer.php:211 includes/widgets/widget-bulteno-aweber.php:155
+msgid "Loading, Please Wait!"
+msgstr ""
+
+#: footer.php:212 includes/widgets/widget-bulteno-aweber.php:156
+msgid "This may take a second or two."
+msgstr ""
+
+#: header.php:39
+#, php-format
+msgid "%s latest posts"
+msgstr ""
+
+#: header.php:40
+#, php-format
+msgid "%s latest comments"
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:91 template-homepage.php:93 template-homepage.php:166
+#: includes/news.php:86
+#: includes/widgets/widget-bulteno-popular-comments.php:67
+msgid "Read Full Article"
+msgstr ""
+
+#: search.php:106 search.php:141 template-homepage.php:181
+#: template-homepage.php:215 includes/news-single.php:77 includes/news.php:101
+#: includes/news.php:135
+msgid "0 Comments"
+msgstr ""
+
+#: search.php:106 search.php:141 template-homepage.php:181
+#: template-homepage.php:215 includes/news-single.php:77 includes/news.php:101
+#: includes/news.php:135
+msgid "1 Comment"
+msgstr ""
+
+#: search.php:106 search.php:141 template-homepage.php:181
+#: template-homepage.php:215 includes/news-single.php:77
+#: includes/news-single.php:129 includes/news.php:101 includes/news.php:135
+#: includes/page-single.php:112
+msgid "% Comments"
+msgstr ""
+
+#: search.php:117 search.php:147 template-homepage.php:192
+#: template-homepage.php:224 includes/news-single.php:86 includes/news.php:112
+#: includes/news.php:144
+msgid "Share"
+msgstr ""
+
+#: search.php:118 search.php:148 template-homepage.php:193
+#: template-homepage.php:225 includes/news-single.php:87 includes/news.php:113
+#: includes/news.php:145
+msgid "Tweet"
+msgstr ""
+
+#: search.php:119 search.php:149 template-homepage.php:194
+#: template-homepage.php:226 includes/news-single.php:88 includes/news.php:114
+#: includes/news.php:146
+msgid "Pin"
+msgstr ""
+
+#: search.php:121 search.php:151 template-homepage.php:196
+#: template-homepage.php:228 includes/news.php:116 includes/news.php:148
+#: includes/widgets/widget-bulteno-category-posts.php:119
+#: includes/widgets/widget-bulteno-latest-posts.php:93
+#: includes/widgets/widget-bulteno-popular-comments.php:73
+msgid "READ MORE"
+msgstr ""
+
+#: search.php:128 template-homepage.php:203 includes/news-single.php:51
+#: includes/news.php:123 includes/page-single.php:52
+#: includes/shortcodes/video.php:10
+msgid "Play Video"
+msgstr ""
+
+#: search.php:162 template-homepage.php:239 includes/news.php:159
+#: includes/widgets/widget-ad300x250.php:78
+#: includes/widgets/widget-ad300x600.php:78
+msgid "SPONSORED ADVERT"
+msgstr ""
+
+#: search.php:168 includes/news.php:165
+msgid "No posts were found"
+msgstr ""
+
+#: searchform.php:4
+msgid "search here"
+msgstr ""
+
+#: template-contact.php:37
+msgid "Message Sent Succesfully"
+msgstr ""
+
+#: template-contact.php:38
+msgid "We will contact with you soon"
+msgstr ""
+
+#: template-contact.php:45
+msgid "Your email address will not be published. Required fields are marked "
+msgstr ""
+
+#: template-contact.php:48 functions/filters.php:144
+msgid "Nickname:"
+msgstr ""
+
+#: template-contact.php:48 functions/filters.php:144
+msgid "Nickname.."
+msgstr ""
+
+#: template-contact.php:48
+msgid "Nickname"
+msgstr ""
+
+#: template-contact.php:52 functions/filters.php:145
+msgid "E-mail address:"
+msgstr ""
+
+#: template-contact.php:52
+msgid "E-mail address.."
+msgstr ""
+
+#: template-contact.php:52
+msgid "E-mail"
+msgstr ""
+
+#: template-contact.php:56 functions/filters.php:146
+msgid "Your website:"
+msgstr ""
+
+#: template-contact.php:56 functions/filters.php:146
+msgid "Website.."
+msgstr ""
+
+#: template-contact.php:56
+msgid "Website"
+msgstr ""
+
+#: template-contact.php:59 functions/ajax.php:304
+msgid "Message:"
+msgstr ""
+
+#: template-contact.php:59
+msgid "Your message.."
+msgstr ""
+
+#: template-contact.php:63
+msgid "Send Message"
+msgstr ""
+
+#: template-contact.php:73 includes/news-single.php:134
+#: includes/page-single.php:117
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template-gallery.php:33
+msgid "Sort by category:"
+msgstr ""
+
+#: template-gallery.php:34
+msgid "All categories"
+msgstr ""
+
+#: template-gallery.php:69
+msgid "View Gallery"
+msgstr ""
+
+#: template-gallery.php:86
+msgid "No galleries were found"
+msgstr ""
+
+#: template-homepage.php:98 template-homepage.php:245
+#: includes/sliders/slider-1.php:24 includes/sliders/slider-bracking.php:27
+#: includes/widgets/widget-bulteno-category-posts.php:127
+#: includes/widgets/widget-bulteno-latest-posts.php:101
+#: includes/widgets/widget-bulteno-popular-comments.php:81
+msgid "No posts where found"
+msgstr ""
+
+#: functions/ajax.php:291
+msgid "From"
+msgstr ""
+
+#: functions/ajax.php:291
+msgid "Contact Page"
+msgstr ""
+
+#: functions/ajax.php:306
+msgid "Name:"
+msgstr ""
+
+#: functions/ajax.php:307
+msgid "E-mail:"
+msgstr ""
+
+#: functions/ajax.php:308
+msgid "IP Address:"
+msgstr ""
+
+#: functions/filters.php:145
+msgid "E-mail.."
+msgstr ""
+
+#: functions/filters.php:156
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: functions/filters.php:192
+msgid "by"
+msgstr ""
+
+#: functions/nav.php:52 functions/nav.php:54
+msgid "Prev"
+msgstr ""
+
+#: functions/nav.php:60 functions/nav.php:62
+msgid "Next"
+msgstr ""
+
+#: functions/nav.php:79
+msgid "TOP"
+msgstr ""
+
+#: functions/nav.php:79
+msgid "HOME"
+msgstr ""
+
+#: functions/nav.php:80
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: functions/nav.php:123
+msgid "Previous"
+msgstr ""
+
+#: functions/other.php:250
+msgid "Category"
+msgstr ""
+
+#: functions/other.php:253
+msgid "Posts From"
+msgstr ""
+
+#: functions/other.php:255
+msgid "Archive"
+msgstr ""
+
+#: functions/other.php:671
+#, php-format
+msgid " %2$s, %1$s"
+msgstr ""
+
+#: functions/other.php:672
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions/other.php:674
+msgid "Author"
+msgstr ""
+
+#: functions/other.php:678
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/other.php:682
+msgid "reply comment"
+msgstr ""
+
+#: functions/register.php:14
+msgid "Top Menu"
+msgstr ""
+
+#: functions/register.php:15
+msgid "Footer Menu (left)"
+msgstr ""
+
+#: functions/register.php:16
+msgid "Footer Menu (middle)"
+msgstr ""
+
+#: functions/register.php:27
+msgid "Add New Item"
+msgstr ""
+
+#: functions/register.php:28
+msgid "Edit Item"
+msgstr ""
+
+#: functions/register.php:29
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/register.php:30
+msgid "View Item"
+msgstr ""
+
+#: functions/register.php:31
+msgid "Search Gallery Items"
+msgstr ""
+
+#: functions/register.php:32
+msgid "No gallery items found"
+msgstr ""
+
+#: functions/register.php:33
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:34
+msgid "Back to all Galleries"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:107
+msgid "This gallery has no pictures!"
+msgstr ""
+
+#: includes/news-single.php:89
+msgid "Google"
+msgstr ""
+
+#: includes/news-single.php:96 includes/page-single.php:79
+msgid "About Author"
+msgstr ""
+
+#: includes/news-single.php:113 includes/page-single.php:96
+msgid "VIEW MORE ARTICLES"
+msgstr ""
+
+#: includes/news-single.php:115 includes/page-single.php:98
+msgid "VIEW WEBSITE"
+msgstr ""
+
+#: includes/news-single.php:118 includes/page-single.php:101
+msgid "SEND AN E-MAIL"
+msgstr ""
+
+#: includes/news-single.php:129 includes/page-single.php:112
+msgid "No Comments"
+msgstr ""
+
+#: includes/news-single.php:129 includes/page-single.php:112
+msgid "1 Comments"
+msgstr ""
+
+#: includes/top.php:7
+msgid "Back To Top"
+msgstr ""
+
+#: includes/shortcodes/caption.php:25
+msgid "View Larger Photo"
+msgstr ""
+
+#: includes/shortcodes/gallery-box.php:35
+msgid "View all photos"
+msgstr ""
+
+#: includes/shortcodes/video.php:11
+msgid "Play"
+msgstr ""
+
+#: includes/sliders/slider-bracking.php:18
+msgid "Breaking News"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 300x250 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:41
+msgid " Custom 300x250 Ad"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:125
+#: includes/widgets/widget-ad300x600.php:125
+#: includes/widgets/widget-bulteno-aweber.php:56
+#: includes/widgets/widget-bulteno-gallery.php:14
+#: includes/widgets/widget-bulteno-latest-posts.php:14
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:131
+#: includes/widgets/widget-ad300x600.php:131
+msgid "Ad image url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:137
+#: includes/widgets/widget-ad300x600.php:137
+msgid "Ad link url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x600.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 300x600 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad300x600.php:41
+msgid " Custom 300x600 Ad"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:59
+msgid "Text:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:61
+msgid "Click here to get your authorization code."
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:62
+msgid "<strong>Step 2:</strong>\tPaste in your authorization code:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:69
+msgid "Select the list you'd like people to subscribe to:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:71
+msgid "Select A List"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:78
+msgid ""
+"This AWeber account does not currently have any lists or your authorization "
+"code is incorrect!"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:141
+msgid "Success !"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:142
+msgid "You have successfully subscribed."
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:148
+msgid "Error Message !"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:149
+msgid "Your request have failed."
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:154
+msgid "Loading..."
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:163
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:164
+msgid "E-mail address"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:165
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:170
+msgid "There is no list selected."
+msgstr ""
+
+#: includes/widgets/widget-bulteno-aweber.php:173
+msgid "Your e-mail will not be shared with anyone"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-category-posts.php:15
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-category-posts.php:34
+#: includes/widgets/widget-bulteno-latest-posts.php:19
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-category-posts.php:41
+#: includes/widgets/widget-bulteno-latest-posts.php:17
+#: includes/widgets/widget-bulteno-popular-comments.php:14
+msgid "Post count:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-category-posts.php:89
+#: includes/widgets/widget-bulteno-gallery.php:47
+#: includes/widgets/widget-bulteno-latest-posts.php:63
+msgid "view all"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-category-posts.php:115
+#: includes/widgets/widget-bulteno-latest-posts.php:89
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-gallery.php:15
+msgid "Item shown:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-gallery.php:65
+msgid "VIEW GALLERY"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-popular-comments.php:15
+msgid "Comment count:"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-popular-comments.php:39 js/scripts.php:52
+msgid "Popular Articles"
+msgstr ""
+
+#: includes/widgets/widget-bulteno-popular-comments.php:112
+msgid "VIEW ARTICLE"
+msgstr ""
+
+#: js/scripts.php:13
+msgid "You didn't enter Your First Name."
+msgstr ""
+
+#: js/scripts.php:15
+msgid "First Name is the wrong length."
+msgstr ""
+
+#: js/scripts.php:26
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: js/scripts.php:28
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: js/scripts.php:40
+msgid "You didn't enter Your message."
+msgstr ""
+
+#: js/scripts.php:42
+msgid "The message is to short."
+msgstr ""
+
+#: js/scripts.php:59
+msgid "Recent Comments"
+msgstr ""
